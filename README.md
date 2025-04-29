@@ -2,8 +2,6 @@
 
 Hi there, I’m **Jisun Park**.
 
----
-
 ### 👩🏻‍💻 About Me
 
  - Living in the cloud (sometimes literally ☁️)
@@ -18,8 +16,6 @@ Hi there, I’m **Jisun Park**.
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jisunpark.t@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jisun-park-578b832a8/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/jisunipark)
-
----
 
 Thanks for stopping by!
 
